@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/workadventure.vc.uni-weimar.de\/_\/global\/max101m.github.io\/WA_BUW\/map_m18.json"
+                 "value":"https://campus.uni-weimar.de/@/campus/marienstrasse.json"
                 }],
          "type":"tilelayer",
          "visible":true,
